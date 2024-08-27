@@ -1,0 +1,36 @@
+D:\D-ACE11609\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.exe
+D:\D-ACE11609\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.deps.json
+D:\D-ACE11609\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.runtimeconfig.json
+D:\D-ACE11609\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.dll
+D:\D-ACE11609\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.pdb
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.csproj.AssemblyReference.cache
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.AssemblyInfoInputs.cache
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.AssemblyInfo.cs
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.csproj.CoreCompileInputs.cache
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.csproj.CopyComplete
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.dll
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\refint\AccountManagementPortal.dll
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.pdb
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.genruntimeconfig.cache
+D:\D-ACE11609\AccountManagementPortal\obj\Debug\net8.0\ref\AccountManagementPortal.dll
+D:\D-ACE11609\AccountManagementPortal\bin\Debug\net8.0\NLog.config
+D:\D-ACE11609\AccountManagementPortal\bin\Debug\net8.0\NLog.dll
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\bin\Debug\net8.0\NLog.config
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.exe
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.deps.json
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.runtimeconfig.json
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.dll
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\bin\Debug\net8.0\AccountManagementPortal.pdb
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\bin\Debug\net8.0\NLog.dll
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.csproj.AssemblyReference.cache
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.AssemblyInfoInputs.cache
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.AssemblyInfo.cs
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.csproj.CoreCompileInputs.cache
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.csproj.CopyComplete
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.dll
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\refint\AccountManagementPortal.dll
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.pdb
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\AccountManagementPortal.genruntimeconfig.cache
+C:\Users\lalit.singh\Downloads\AccountManagementPortal 2\AccountManagementPortal\obj\Debug\net8.0\ref\AccountManagementPortal.dll

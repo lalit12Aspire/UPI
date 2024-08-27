@@ -1,0 +1,7 @@
+2024-08-26 19:31:56.1596|INFO|AccountManagementPortal.Program|Application started.
+2024-08-27 09:07:37.6779|INFO|AccountManagementPortal.Program|Application started.
+2024-08-27 09:09:35.0360|INFO|AccountManagementPortal.Program|Customer login successful.
+2024-08-27 09:09:43.6972|INFO|AccountManagementPortal.Program|Customer action executed: Option 4
+2024-08-27 09:09:52.6970|INFO|AccountManagementPortal.Program|Application exited by user.
+2024-08-27 14:22:08.1164|INFO|AccountManagementPortal.Program|Application started.
+2024-08-27 14:22:38.7151|INFO|AccountManagementPortal.Program|Bank login successful.
